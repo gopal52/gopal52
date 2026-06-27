@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋, I'm Gopal Kumar
 
-<!--
-**gopal52/gopal52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Senior iOS Developer
 
-Here are some ideas to get you started:
+I am a passionate iOS Developer with 9+ years of experience building high-quality mobile applications using Swift, SwiftUI, UIKit, and Objective-C. I enjoy creating clean, scalable, and user-friendly apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 📱 Senior iOS Developer
+- 💼 Open for Freelance Projects
+- 🌱 Currently learning AI integration in iOS
+- 🔥 Passionate about SwiftUI & Clean Architecture
+- 📍 India
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Swift
+- Objective-C
+
+### Frameworks
+- SwiftUI
+- UIKit
+- Combine
+- Core Data
+- AVFoundation
+- MapKit
+
+### Backend & APIs
+- REST APIs
+- Firebase
+- JSON
+
+### Tools
+- Xcode
+- Git
+- GitHub
+- CocoaPods
+- Swift Package Manager
+- Fastlane
+
+---
+
+## 📌 Featured Projects
+
+### 🌦 GlassCast Weather App
+Modern weather application built using SwiftUI with clean architecture.
+
+### 📱 iNExt
+Production iOS application with modern UI and scalable architecture.
+
+---
+
+## 📫 Contact
+
+- Fiverr: https://www.fiverr.com/gopal52
+- GitHub: https://github.com/gopal52
+
+---
+
+⭐ Thanks for visiting my profile!
