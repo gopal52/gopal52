@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Banner.png" alt="Gopal Kumar Banner" width="100%">
+</p>
 # Hi there 👋, I'm Gopal Kumar
 
 ## 🚀 Senior iOS Developer
